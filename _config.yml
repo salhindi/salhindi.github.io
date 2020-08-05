@@ -1,11 +1,11 @@
 # Site settings
-author: Sara A
-title: 
+author: Sara Al-hindi
+title: Sara’s Flatiron Blog
 header-img: img/home-bg.png
 email: calisaraalhindi@gmail.com
-copyright_name: Sara A
+copyright_name: Sara Al-hindi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  salhindi
