@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sacartists CLI Project"
-date:       2020-09-20 23:11:06 +0000
+date:       2020-09-20 19:11:07 -0400
 permalink:  sacartists_cli_project
 ---
 
