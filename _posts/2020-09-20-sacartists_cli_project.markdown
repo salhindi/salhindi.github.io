@@ -14,5 +14,5 @@ The CLI builds were incredibily helpful and thorough! Even though I got stuck in
 
  I want to add more information associated with the artist's contact info so the user may eventually pull that data as well. 
 This project was eye-opening and incredibily fun. However, I need to set up a local environment ASAP because the IDE refresh is a lot of pressure. 
-![](https://media1.tenor.com/images/bc337606f5a1ce9099cca7bc24652878/tenor.gif?itemid=13323735)
+
 
